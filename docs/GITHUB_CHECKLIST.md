@@ -1,0 +1,7 @@
+- [ ] Create `climate-trend-analyzer` repository.
+- [ ] Run pipeline, tests, and dashboard in a clean environment.
+- [ ] Document data source, license, units, region and retrieval date.
+- [ ] Add screenshots of dashboard and figures.
+- [ ] Add a real-data findings section only after running documented public data.
+- [ ] Add topics: python, data-science, time-series, climate-data, visualization.
+- [ ] Do not upload secrets or redistribute data contrary to its license.

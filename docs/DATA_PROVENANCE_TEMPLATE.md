@@ -1,0 +1,13 @@
+# Data provenance template
+- Dataset/product:
+- Provider:
+- Exact URL:
+- Retrieval date:
+- License/terms:
+- Station/region:
+- Temporal coverage and resolution:
+- Variable definitions and units:
+- Missing-value codes:
+- Transformations:
+- Known limitations:
+- Citation/attribution:
